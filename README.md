@@ -1,9 +1,9 @@
 # Not yet, AV1 #  
   
-This is extremely lightweight Chrome plugin to disable AV1 on YouTube and other sites.  
+This is extremely lightweight Chrome plugin to disable AV1 on Google Meet.  
 
-I believe that AV1 is still very green format and can't be played 4k60fps without hardware support.  
-  
-Fundamentally this is [h264ify](https://github.com/erkserkserks/h264ify) by [erkserkserks](https://github.com/erkserkserks), but without options and h264-only restriction.  
+Google Meet on Mac takes way too much CPU as it is not HW supported. Let's try to force disable AV1.
 
-![](example.jpg)
+This is fork https://github.com/Shimmermare/NotYetAV1
+
+I'm not sure if this works even
